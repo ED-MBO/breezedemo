@@ -13,7 +13,7 @@ class PatientController extends Controller
 {
     // View
     return view('Patient.index', [
-        'title' => 'Patienten'
+        'title' => 'Patient Home'
     ]);
 }
 
